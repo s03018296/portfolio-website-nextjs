@@ -6,7 +6,7 @@ const projectSets = [
   {
     name: 'Profolio Website',
     skills: 'NextJS, TailwindCSS',
-    image: '/assets/projects/sample.png',
+    image: '/assets/projects/portfolio-site.png',
     url: '',
   },
   {

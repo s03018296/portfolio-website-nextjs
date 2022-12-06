@@ -39,9 +39,9 @@ const Main = () => {
               <Image
                 src="/assets/my-pic.png"
                 alt="/"
-                width="225"
-                height="50"
                 objectFit="cover"
+                width="300"
+                height="300"
               />
             </div>
           </div>

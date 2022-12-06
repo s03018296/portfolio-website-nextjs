@@ -62,7 +62,8 @@ const Navbar = () => {
                 Contact
               </Link>
             </li>
-            <li className="ml-10 text-sm uppercase hover:border-b">
+
+            <li className="ml-10 text-sm uppercase font-bold hover:border-b">
               <Link href="/">Resume</Link>
             </li>
           </ul>
@@ -129,9 +130,11 @@ const Navbar = () => {
                   Contact
                 </Link>
               </li>
-              <li className="py-5 text-sm uppercase hover:border-b">
-                <Link href="/">Resume</Link>
-              </li>
+              <div className="border-2">
+                <li className="py-5 text-sm uppercase hover:border-b">
+                  <Link href="/">Resume</Link>
+                </li>
+              </div>
             </ul>
           </div>
         </div>
